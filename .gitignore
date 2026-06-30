@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter Notebook outputs (optional, comment out to keep)
+# *.ipynb checkpoints are already covered above
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Conda
+*.conda
